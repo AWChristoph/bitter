@@ -1,4 +1,4 @@
-# Bitter - corporate collaboration
+# Bitter - open journalism
 
 This is the bitter application, made in London/UK
 [*Bitter*](https://github.com/AWChristoph/bitter)
