@@ -77,5 +77,5 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
     # Default URL to be set
-  config.action_mailer.default_url_options = { host: bitter-awchristoph.herokuapp.com }
+  config.action_mailer.default_url_options = { host: 'http://bitter-awchristoph.herokuapp.com/' }
 end
